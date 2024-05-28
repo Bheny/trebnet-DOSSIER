@@ -72,6 +72,45 @@ In addition to Rebel Points, Trebnet implements a virtual currency system known 
 
 ---
 
+## Ranking System
+
+Trebnet Rebels follows a ranking system that recognizes members' progression and contributions within the organization. Each rank corresponds to a specific level of expertise, experience, and engagement, with higher ranks requiring a greater accumulation of Rebel Points and Treb Coins.
+
+### Ranks and Requirements
+
+1. **Ember (Levels 1-12)**
+   - **Rebel Points Required:** 100 - 10,000
+   
+
+2. **Spark (Levels 13-25)**
+   - **Rebel Points Required:** 10,000 - 20,000
+  
+
+3. **Flame (Levels 26-38)**
+   - **Rebel Points Required:** 20,000 - 60,000
+  
+
+4. **Inferno (Levels 39-51)**
+   - **Rebel Points Required:** 60,000 - 240,000
+  
+
+5. **Cyclone (Levels 52-64)**
+   - **Rebel Points Required:** 240,000 - 1,200,000
+
+
+6. **Tempest (Levels 65-77)**
+   - **Rebel Points Required:** 1,200,000 - 7,200,000
+   
+
+7. **Tsunami (Levels 78-90)**
+   - **Rebel Points Required:** 7,200,000 - 50,400,000
+
+
+8. **Volcano (Levels 91-100)**
+   - **Rebel Points Required:** 50,400,000 - 403,200,000
+
+---
+
 ## Conclusion
 
 The Rebel Points and Currency System implemented by Trebnet Rebels is designed to recognize, reward, and incentivize member engagement, skill development, and contributions to the community. By earning Rebel Points and Treb Coins, members not only unlock benefits and rewards but also contribute to the overall growth and success of the organization. We encourage all members to actively participate, earn rewards, and leverage the benefits of our dynamic points and currency system to enhance their experience within the Trebnet community.
